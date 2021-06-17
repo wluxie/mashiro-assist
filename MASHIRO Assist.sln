@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASHIRO Assist", "MASHIRO Assist\MASHIRO Assist.csproj", "{8B7B50F5-99D5-4048-9BF9-FE01ED6BA4F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B7B50F5-99D5-4048-9BF9-FE01ED6BA4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7B50F5-99D5-4048-9BF9-FE01ED6BA4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7B50F5-99D5-4048-9BF9-FE01ED6BA4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7B50F5-99D5-4048-9BF9-FE01ED6BA4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6C99B69-DF37-4C38-9605-5C4F6836BEE9}
+	EndGlobalSection
+EndGlobal
