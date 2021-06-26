@@ -5,11 +5,11 @@ Assistive application
 
 These instructions will get you a copy of the project up and running on your local machine. 
 
-## Prerequisites
+### Prerequisites
 
 *A Operating computer duh*
 
-## Installing
+### Installing
 
 There should be a file in the Debug folder where you can find a .exe file. A .msi is too heavy so I can't upload it to here
 
