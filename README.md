@@ -1,5 +1,4 @@
-# MASHIRO-Assist
-Assistive application
+![](images/Project_MASHIRO.png)
 
 ## Getting Started
 
