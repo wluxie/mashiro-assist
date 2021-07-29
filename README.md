@@ -1,6 +1,6 @@
 ![](images/Project_MASHIRO.png)
 
-An assistive program that help users with smaller tasks to broader ones, ranging from checking the weather, maps, doing a Google search, etc... through prompts or speech recognition
+An assistive program that help users with smaller tasks to broader ones, ranging from checking the weather, maps, look-up search, etc... through prompts or speech recognition
 
 ## Getting Started
 
